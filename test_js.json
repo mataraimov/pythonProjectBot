@@ -1,0 +1,7 @@
+[
+    "{\"quiz_id\": \"5188287924830994655\", \"question\": \"Javascript is an _______ language?\", \"options\": [\"Object-Oriented\", \"Object-Based\", \"Procedural\", \"None of the above\"], \"correct_option_id\": 0, \"owner\": 1468129015, \"winners\": [], \"chat_id\": 0, \"message_id\": 0}",
+    "{\"quiz_id\": \"5188287924830994656\", \"question\": \"Which of the following keywords is used to define a variable in Javascript?\", \"options\": [\"var\", \"let\", \"both\", \"none\"], \"correct_option_id\": 2, \"owner\": 1468129015, \"winners\": [], \"chat_id\": 0, \"message_id\": 0}",
+    "{\"quiz_id\": \"5188287924830994657\", \"question\": \"Which of the following methods is used to access HTML elements using Javascript?\", \"options\": [\"getElementbyId()\", \"getElementsByClassName()\", \"Both A and B\", \"None of the above\"], \"correct_option_id\": 2, \"owner\": 1468129015, \"winners\": [], \"chat_id\": 0, \"message_id\": 0}",
+    "{\"quiz_id\": \"5188287924830994658\", \"question\": \"Upon encountering empty statements, what does the Javascript Interpreter do?\", \"options\": [\"Throws an error\", \"Ignores the statements\", \"Gives a warning\", \"None of the above\"], \"correct_option_id\": 1, \"owner\": 1468129015, \"winners\": [], \"chat_id\": 0, \"message_id\": 0}",
+    "{\"quiz_id\": \"5188287924830994659\", \"question\": \"How can a datatype be declared to be a constant type?\", \"options\": [\"const\", \"let\", \"var\", \"constant\"], \"correct_option_id\": 0, \"owner\": 1468129015, \"winners\": [], \"chat_id\": 0, \"message_id\": 0}"
+]
